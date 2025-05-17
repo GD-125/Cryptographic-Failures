@@ -2,7 +2,7 @@
 
 A comprehensive educational platform for understanding and preventing cryptographic failures in modern applications.
 
-![CryptoGuard Screenshot](https://drive.google.com/file/d/1n9Kx_ZKW8JjdgBeEMCmGEuqUmlBZ-kiQ/view?usp=sharing)
+![CryptoGuard Screenshot](images/CryptoGuard.jpg)
 
 ## Features 🚀
 
