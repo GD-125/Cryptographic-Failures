@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-DevQueen - [Website](https://devqueens.vercel.app/)
+DevQueens - [Website](https://devqueens.vercel.app/)
 
 ## Acknowledgments 🙏
 
@@ -116,4 +116,4 @@ DevQueen - [Website](https://devqueens.vercel.app/)
 
 ---
 
-Made with ❤️ by [DevQueen](https://devqueens.vercel.app/)
+Made with ❤️ by [DevQueens](https://devqueens.vercel.app/)
