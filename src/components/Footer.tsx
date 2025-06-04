@@ -50,23 +50,23 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold mb-4">Solutions</h3>
             <ul className="space-y-2">
               <li>
-                <Link to="/resources#developers" className="text-gray-400 hover:text-white transition-colors duration-200">
-                  For Developers
+                <Link to="https://phishing-edu.vercel.app/" className="text-gray-400 hover:text-white transition-colors duration-200">
+                  Phishing Simulator
                 </Link>
               </li>
               <li>
-                <Link to="/resources#security" className="text-gray-400 hover:text-white transition-colors duration-200">
-                  For Security Teams
+                <Link to="https://network-monitoring-system-intern.vercel.app/" className="text-gray-400 hover:text-white transition-colors duration-200">
+                  Network Monitoring System
                 </Link>
               </li>
               <li>
-                <Link to="/resources#educators" className="text-gray-400 hover:text-white transition-colors duration-200">
-                  For Educators
+                <Link to="https://edu-keylogger.vercel.app/" className="text-gray-400 hover:text-white transition-colors duration-200">
+                  Keylogger
                 </Link>
               </li>
               <li>
                 <Link to="/resources#students" className="text-gray-400 hover:text-white transition-colors duration-200">
-                  For Students
+                  Ransomware
                 </Link>
               </li>
             </ul>
@@ -77,10 +77,10 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <p className="text-gray-400 mb-2">Have questions or feedback?</p>
             <a 
-              href="mailto:contact@cryptoguard.io" 
+              href="mailto:devqueens@gmail.com" 
               className="text-blue-400 hover:text-blue-300 transition-colors duration-200"
             >
-              contact@cryptoguard.io
+              devqueens@gmail.com
             </a>
             <div className="mt-4 flex space-x-4">
               <a 
@@ -97,12 +97,12 @@ const Footer: React.FC = () => {
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-white transition-colors duration-200"
-                aria-label="Twitter"
+                aria-label="Telegram"
               >
                 <Twitter className="h-5 w-5" />
               </a>
               <a 
-                href="https://linkedin.com/company/cryptoguard" 
+                href="https://linkedin.com/company/devqueens" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-white transition-colors duration-200"
@@ -111,7 +111,7 @@ const Footer: React.FC = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a 
-                href="mailto:contact@cryptoguard.io" 
+                href="mailto:devqueens@gmail.com" 
                 className="text-gray-400 hover:text-white transition-colors duration-200"
                 aria-label="Email"
               >
@@ -123,14 +123,14 @@ const Footer: React.FC = () => {
 
         <div className="mt-12 pt-6 border-t border-gray-800 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 CryptoGuard. Designed and Developed by{' '}
+            © 2025 DevQueens. Designed and Developed by{' '}
             <a 
-              href="https://example.com" 
+              href="https://devqueens.vercel.app/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-blue-400 hover:text-blue-300 transition-colors duration-200 font-medium"
             >
-              DevQueen
+              DevQueens
             </a>
           </p>
         </div>
