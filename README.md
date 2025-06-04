@@ -106,9 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-DevQueen - [Website](https://example.com)
-
-Project Link: [https://github.com/your-username/cryptoguard](https://github.com/your-username/cryptoguard)
+DevQueen - [Website](https://devqueens.vercel.app/)
 
 ## Acknowledgments 🙏
 
@@ -118,4 +116,4 @@ Project Link: [https://github.com/your-username/cryptoguard](https://github.com/
 
 ---
 
-Made with ❤️ by [DevQueen](https://example.com)
+Made with ❤️ by [DevQueen](https://devqueens.vercel.app/)
